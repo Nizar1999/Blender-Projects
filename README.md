@@ -5,11 +5,11 @@
 Inspired by the Katanas of GhostRunner
 ## Reference
 
-![KatanaResult](./Projects/Thermal%20Katana/Reference.png)
+![KatanaResult](./Projects/Thermal%20Katana/Reference.jpg)
 
 ## Result
 
-![Katana Result](./Projects/Thermal%2Katana/ThermalKatana.png)
+![Katana Result](./Projects/Thermal%20Katana/ThermalKatana.png)
 
 # Scythe
 Attempt at a Scythe Design
