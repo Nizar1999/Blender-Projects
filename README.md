@@ -3,8 +3,20 @@
 </p>
 # Thermal Katana
 Inspired by the Katanas of GhostRunner
-![alt text](./Projects/Thermal%20Katana/ThermalKatana.png)
+## Reference
+
+![KatanaResult](./Projects/Thermal%20Katana/Reference.png)
+
+## Result
+
+![Katana Result](./Projects/Thermal%2Katana/ThermalKatana.png)
 
 # Scythe
 Attempt at a Scythe Design
-![alt text](./Projects/Scythe/Scythe.png)
+
+## Reference
+![Scythe Result](./Projects/Scythe/Reference.png)
+
+## Result
+
+![Scythe Result](./Projects/Scythe/scythefront2.png)
