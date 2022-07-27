@@ -1,3 +1,3 @@
 # 3D-models-Blender-Projects
 
-![alt text](./Projects/Thermal Katana/ThermalKatana.png)
+![alt text](./Projects/Thermal%20Katana/ThermalKatana.png)
